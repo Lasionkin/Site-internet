@@ -10,6 +10,7 @@
   nav.addEventListener('click', event => { if (event.target.closest('a')) closeMenu(); });
   document.addEventListener('keydown', event => { if (event.key === 'Escape' && nav.classList.contains('open')) { closeMenu(); menu.focus(); } });
   const media = document.querySelector('#vision-film');
+  if (!media) return;
   const cinema = document.querySelector('.cinema');
   const sticky = document.querySelector('.cinema-sticky');
   const controls = document.querySelector('.film-controls');

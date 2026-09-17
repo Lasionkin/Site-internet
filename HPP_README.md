@@ -33,3 +33,13 @@ Le logo, l’affiche Deux orientations et le visuel d’ouverture proviennent de
 ## Confidentialité
 
 Aucun secret dans le dépôt. Ne jamais ajouter de clés API, cookies, profils Firefox ou fichiers de configuration privés Termux. Les liens sociaux s’ouvrent dans un nouvel onglet avec `noopener noreferrer`. Aucune intégration tierce n’est chargée pour les afficher.
+
+## Extension du portfolio — septembre 2026
+
+Trois pages : accueil, `services.html`, `realisations.html`. Les pages intérieures comportent un index latéral sur ordinateur, remis dans le flux sur mobile. Les services sont regroupés en quatre familles : images/production, identité/édition, applications/IA, création textile. Les projets numériques BreniCall et Le Grand Cerveau sont explicitement en développement ou prototypes, pas des produits livrés à des clients.
+
+Le logo The Excellence et les deux illustrations du portfolio sont extraits du syllabus 2026 fourni par le propriétaire. Attribution à HPP confirmée par le propriétaire. Conversion WebP uniquement, sans retouche créative. Le syllabus complet n’est pas publié. Les images représentent des scènes illustrées, pas des clients photographiés.
+
+Roar for Canada est une réalisation textile, pas une boutique. Les originaux photo restent à recevoir dans un format accessible ; aucune image de remplacement, affiche de pasteur ni lien vers l’album privé n’est publié. L’intégration web de Tel esprit, tel hôte attend le ZIP/source de l’application et son audit ; les règles éditoriales seules ne sont pas une application fonctionnelle.
+
+Le domaine a été acheté par le propriétaire. Les enregistrements web ont été configurés séparément dans Namecheap ; l’état HTTPS se vérifie auprès de l’hébergeur. Aucun réglage de messagerie n’est livré dans ce dépôt.

@@ -29,4 +29,13 @@ Logo original conservé plutôt que version redessinée dans une maquette. Une s
 
 ## Limites
 
+### Extension Services / Réalisations
+
+- Parcours accueil → Services et ancres de l’index vérifiés dans le navigateur de prévisualisation.
+- Deux fenêtres embarquées de 390 px pour Services et Réalisations : largeur utile et largeur de contenu identiques (375 px), sans débordement horizontal.
+- Menu mobile ouvert, puis fermé avec Échap ; état `aria-expanded` contrôlé.
+- Navigation vers Roar et The Excellence vérifiée.
+- Logo et deux illustrations originales du syllabus ajoutés au portfolio ; pas de document privé intégral ni de faux visuels Roar.
+- Aucun paiement, vente de T-shirts, envoi de courriel ou publication sociale déclenché par les tests.
+
 Le test mobile est un viewport navigateur, pas un test matériel sur tous les Samsung/iPhone. Le geste de défilement synthétique du navigateur de test a expiré ; les sauts de navigation ont confirmé les extrémités du scrubbing. Un essai tactile sur le téléphone de l’utilisateur reste utile. La préférence système de réduction du mouvement et le mode sans JavaScript sont pris en charge dans le code, mais n’ont pas fait l’objet d’une émulation système dans cette session.

@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://heavenly-places-productions.lasionkin.chatgpt.site/sitemap.xml
+Sitemap: https://heavenlyplacesproductions.com/sitemap.xml
