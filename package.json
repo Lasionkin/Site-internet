@@ -1,0 +1,1 @@
+{"name":"heavenly-places-productions","private":true,"version":"3.0.0","type":"module","scripts":{"dev":"vite","check":"node --check dist/app.js"},"devDependencies":{"vite":"^7.0.0"}}
